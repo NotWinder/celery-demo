@@ -49,7 +49,6 @@
 
             echo ""
             echo "To run Django: python manage.py runserver"
-            export DJANGO_SETTINGS_MODULE=newsletter_project.settings
           '';
         };
       }
